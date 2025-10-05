@@ -30,7 +30,8 @@ int scientific_cal();
 int programmers_cal();
 
 int main() {
-    int choice;
+    int choice;   
+    
 
     printf("Select Calculator Type:\n");
     printf("1: Normal Calculator\n");
